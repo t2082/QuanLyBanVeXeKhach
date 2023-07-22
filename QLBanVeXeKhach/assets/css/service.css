@@ -1,0 +1,27 @@
+
+.contact-container {
+    max-width: 936px;
+    width: 100%;
+    margin-top: 20px;
+    border-radius: 8px;
+    border: 1px solid #dce1e6;
+    background-color: #fff;
+    margin-bottom: 10px;
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    color: coral;
+    text-align: center;
+    margin-top: 10px;
+}
+
+p.title-desc {
+    text-align: center;
+    font-style: italic;
+    margin-bottom: 10px;
+}
